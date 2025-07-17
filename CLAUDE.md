@@ -31,7 +31,7 @@ This is a Next.js 15.4.1 application using the App Router architecture with Type
 - **Fonts**: Custom fonts are loaded via local files, not Google Fonts
 
 ### Development Notes
-- This appears to be a film production company website (BKCH/Boki Chelo)
+- This appears to be a creative studio website (BKCH/Boki Chelo)
 - The project uses modern React 19.1.0 features
 - ESLint is configured with Next.js core web vitals rules
 - No CSS framework (Tailwind, etc.) - uses vanilla CSS
